@@ -5,6 +5,6 @@
 
 ## Extensões Git para VSCode
 
-* Git: Add Remote *sam_schneller*
+* Git: Add Remote - *sam_schneller*
 
-* Git History *Don Jayamanne*
+* Git History - *Don Jayamanne*
